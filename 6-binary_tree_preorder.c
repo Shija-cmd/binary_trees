@@ -4,7 +4,7 @@
  * binary_tree_preorder - using pre-order traversal to print functions
  * @tree: tree to print elements
  * @func: function used
- * Return: no 
+ * Return: nothing 
  */
 
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
